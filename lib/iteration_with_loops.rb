@@ -1,6 +1,5 @@
-  # src will be an array of arrays of integers
-  #Return an Array that contains the smallest number of each of the nested arrays
 
+#Return an Array that contains the smallest number of each of the nested arrays
 
 def find_min_in_nested_arrays(src)
   row_index = 0
@@ -20,3 +19,4 @@ def find_min_in_nested_arrays(src)
     end
  array_of_smalls
 end
+
